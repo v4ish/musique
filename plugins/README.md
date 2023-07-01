@@ -1,7 +1,7 @@
-Todo:
+## Todo:
 
-Discord RPC
+- Discord RPC - Discord rich presence
 
-Flac Downloader
+- Flac Downloader - Get Flac files from the internet
 
-Lyriqs
+- Lyriqs - Fetch Lyrics from the internet

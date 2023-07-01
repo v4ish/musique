@@ -1,3 +1,3 @@
-# musique
+# musique (WIP)
 
-### a Music Player Mainly Focused On Playing Flac Audio Files
+### A Music Player Mainly Focused On Playing Flac Audio File

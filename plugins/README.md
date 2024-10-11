@@ -1,4 +1,4 @@
-## Todo:
+## Default Plugins:
 
 - Discord RPC - Discord rich presence
 
